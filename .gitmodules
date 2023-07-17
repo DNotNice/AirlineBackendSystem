@@ -1,0 +1,15 @@
+[submodule "Auth_Service"]
+	path = Auth_Service
+	url = https://github.com/Procrasteenator/Auth_Service
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/Procrasteenator/ReminderService
+[submodule "API_GATEWAY"]
+	path = API_GATEWAY
+	url = https://github.com/Procrasteenator/API_GATEWAY
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/Procrasteenator/AirTicketBookingService
+[submodule "FlightsAndSearchService"]
+	path = FlightsAndSearchService
+	url = https://github.com/Procrasteenator/FlightsAndSearchService
